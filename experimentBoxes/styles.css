@@ -1,0 +1,86 @@
+body {
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(126, 126, 126);
+}
+.flag {
+    display: flex;
+    justify-content: center;
+}
+.flag1 {
+    border-color: rgb(180, 180, 8);
+    border-style: solid;
+}
+.flag2 {
+    border-color: rgb(17, 8, 180);
+    border-style: solid;
+}
+.flag3 {
+    border-color: rgb(180, 8, 8);
+    border-style: solid;
+}
+.welcomeBox {
+    border-style: hidden hidden;
+    padding: 0 50px;
+    text-shadow: 1px 1px 2px black;
+}
+.welcomeY {
+    color: rgb(180, 180, 8);
+}
+.welcomeB {
+    color: rgb(17, 8, 180);
+}
+.welcomeR {
+    color: rgb(180, 8, 8);
+}
+.yellowBoxOne {
+    border-color: rgb(180, 180, 8);
+    border-style: solid;
+    margin: 50px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.blueBoxOne {
+    border-color: rgb(17, 8, 180);
+    border-style: solid;
+    height: 100px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+.redBoxOne {
+    border-color: rgb(180, 8, 8);
+    border-style: solid;
+    height: 100px;
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+.yellowInsideBox {
+    border-style: solid;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(180, 180, 8);
+    color: rgb(180, 180, 8);
+    padding: 30px;
+    margin: auto 15px ;
+}
+.blueInsideBox {
+    border-style: solid;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(17, 8, 180);
+    color: rgb(17, 8, 180);
+    padding: 30px;
+    margin: auto 15px ;
+}
+.redInsideBox {
+    border-style: solid;
+    height: 10px;
+    width: 20px;
+    background-color: rgb(180, 8, 8);
+    color: rgb(180, 8, 8);
+    padding: 30px;
+    margin: auto 15px;
+}
